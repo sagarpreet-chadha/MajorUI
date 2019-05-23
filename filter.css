@@ -1,0 +1,31 @@
+#myCanvas{
+	margin-left: 40% ; 
+}
+
+#image {
+	margin-left: 40% ; 
+	filter: blur(1px);
+}
+
+#grayscalediv {
+
+}
+
+#grayscaleimage {
+	margin-left: 40% ; 
+}
+
+#div_gabor {
+	margin-left: 40% ; 	
+}
+
+#gabordiv {
+	margin-left: 40% ; 
+}
+
+#blur,#grayscale,#brightness,#contrast,#rotate,#invert,#opacity,#saturate,#sepia{
+    width: 300px;
+    margin: 15px;
+  
+ }
+
